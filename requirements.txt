@@ -1,0 +1,21 @@
+# Projekt Laboratoryjny nr 2 – Predykcja ryzyka choroby na podstawie danych klinicznych
+# Raport 1 + Raport 2 + Raport 3
+
+# --- Core data ---
+pandas==2.3.3
+numpy==2.2.6
+
+# --- Visualization ---
+matplotlib==3.10.8
+seaborn==0.13.2
+
+# --- Machine learning ---
+scikit-learn>=1.4.0
+
+# --- Statistical analysis ---
+scipy>=1.12.0
+
+# --- Jupyter ---
+jupyter>=1.0.0
+notebook>=7.0.0
+ipykernel>=6.0.0
